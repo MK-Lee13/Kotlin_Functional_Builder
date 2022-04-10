@@ -1,0 +1,4 @@
+include ':processor'
+include ':annotation'
+include ':sample'
+rootProject.name = "Kotlin_Functional_Builder"
